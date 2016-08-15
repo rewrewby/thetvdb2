@@ -1,10 +1,10 @@
 {
-    "name": "adrenth/thetvdb2",
+    "name": "rewrewby/thetvdb2",
     "description": "API v2 Client for thetvdb.com",
     "type": "library",
     "keywords": ["thetvdb", "thetvdb.com", "api", "library"],
     "license": "MIT",
-    "homepage": "http://github.com/adrenth/thetvdb2",
+    "homepage": "http://github.com/rewrewby/thetvdb2",
     "authors": [
         {
             "name": "Alwin Drenth",
