@@ -15,6 +15,7 @@ use Adrenth\Thetvdb\Exception\InvalidArgumentException;
  *
  * @method int getId()
  * @method int getAiredSeason()
+ * @method int getAiredSeasonID()
  * @method int getAiredEpisodeNumber()
  * @method string getEpisodeName()
  * @method string getFirstAired()
@@ -66,6 +67,7 @@ class Episode extends ValueObject
         return [
             'id',
             'airedSeason',
+            'airedSeasonID',
             'airedEpisodeNumber',
             'episodeName',
             'firstAired',
